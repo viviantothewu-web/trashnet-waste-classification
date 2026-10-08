@@ -1,7 +1,8 @@
 # trashnet-waste-classification
 Deep learning project comparing CNN architectures for waste classification and evaluating real-world generalization.
 
-##NOTE
+# NOTE:
+
 Every model we train gets the exact same images for training, validation, and testing! Use the trashnet_split.csv
 
 we should do:
