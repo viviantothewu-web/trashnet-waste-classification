@@ -14,3 +14,6 @@ we should do:
 - ResNet50 --> trashnet_split.csv
 
 - MobileNetV2 --> trashnet_split.csv
+
+## Saved Models
+Rest of the saved models can be found in Shared Google doc
