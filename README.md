@@ -15,5 +15,18 @@ we should do:
 
 - MobileNetV2 --> trashnet_split.csv
 
+## shared data_pipeline
+TRAIN:
+Resize
+→ RandomHorizontalFlip
+→ RandomRotation
+→ ToTensor
+→ ImageNet Normalize
+
+VAL / TEST:
+Resize
+→ ToTensor
+→ ImageNet Normalize
+
 ## Saved Models
 Rest of the saved models can be found in Shared Google doc
